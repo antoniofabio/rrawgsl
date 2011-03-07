@@ -1,0 +1,11 @@
+Package: rawgsl
+Type: Package
+Title: low level gsl bindings
+Version: 1.0
+Date: 2011-03-07
+Author: Antonio, Fabio Di Narzo
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: low level gsl bindings
+Depends: Rlazyffi
+License: GPL (>= 3.0)
+LazyLoad: yes
